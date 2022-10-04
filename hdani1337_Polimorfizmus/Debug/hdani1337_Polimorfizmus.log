@@ -1,0 +1,7 @@
+﻿  hdani1337_Polimorfizmus.cpp
+c:\users\hallgato\desktop\hdani1337_kpt\hdani1337_polimorfizmus\vector.h(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\hallgato\desktop\hdani1337_kpt\hdani1337_polimorfizmus\vector.h(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\hallgato\desktop\hdani1337_kpt\hdani1337_polimorfizmus\vector.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\hallgato\desktop\hdani1337_kpt\hdani1337_polimorfizmus\vector.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\hallgato\desktop\hdani1337_kpt\hdani1337_polimorfizmus\vector.h(69): warning C4018: '<': signed/unsigned mismatch
+  hdani1337_Polimorfizmus.vcxproj -> C:\Users\Hallgato\Desktop\hdani1337_KPT\Debug\hdani1337_Polimorfizmus.exe
